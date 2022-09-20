@@ -11,3 +11,4 @@
 * 이진탐색
   + [재귀적 풀이](https://github.com/dongjun0128/Coding_Test_Team_Note/blob/main/Python/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89_%EC%9E%AC%EA%B7%80.py)
   + [반복문 풀이](https://github.com/dongjun0128/Coding_Test_Team_Note/blob/main/Python/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89_%EB%B0%98%EB%B3%B5%EB%AC%B8.py)
+  + [bisect](https://github.com/dongjun0128/Coding_Test_Team_Note/blob/main/Python/bisect.py)
