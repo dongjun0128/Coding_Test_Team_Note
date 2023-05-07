@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Node {
+class Node {
 
     private int index;
     private int distance;
